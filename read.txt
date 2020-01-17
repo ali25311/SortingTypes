@@ -1,0 +1,15 @@
+Sort three arrays (list1, list 2, and list3) five times. 
+ 
+list1 = {1, 2, 3, … ,98, 99, 100}   list2 = {100, 99, 98,…, 3, 2, 1}   list3 = {100, 5, 92,…, 98, 2, 88}   
+ 
+Sort ascending (bubble, insertion, selection, quick (use a random number between 1 and 100 as the pivot), merge)
+the arrays where  1. list1 is initially in ascending order 2. list2 is initially in descending order 3. 
+list3 is initially in random order .
+ 
+a. Print out the first and last 10 array entries of list1, list2, and list3 before sorting.  
+Also print out the first and last 10 array entries after each sort (bubble, insertion, selection, quick, merge). 
+ 
+b. Output the number of comparisons and item assignments made during each sort.  There should be 15 entries. 
+ 
+c. Output the execution time in nanoseconds for each sort. There should be 15 entries. 
+ 
